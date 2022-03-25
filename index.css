@@ -1,0 +1,44 @@
+    .section{
+        position: absolute;
+        right: 50%;
+        
+     
+    }
+    .poke{
+       
+        width: 280px;
+        height: 300px;
+        
+    }
+    .pokeCentre{
+        display: block;
+        margin: auto;
+        
+    }
+
+    button {
+        cursor: pointer;
+        display: block;
+        background: red;
+        color: yellow;
+        font-size: 18px;
+        border: 25;
+        border-radius: 75px;
+        padding: 1rem 1.5rem;
+        margin: auto;
+    }
+  
+    button:focus {
+        outline: none;
+    }
+  
+    button:hover {
+        transform: scale(0.50);
+    }
+    .parrafo{
+        font-family:'Courier New', Courier, monospace;
+        
+        font-style: bold;
+        text-align: center;
+
+    }
