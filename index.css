@@ -37,8 +37,15 @@
     }
     .parrafo{
         font-family:'Courier New', Courier, monospace;
-        
+        color: bisque;
         font-style: bold;
         text-align: center;
-
+        background-color: blueviolet;
     }
+body{
+    background-image: url(./Img/LOGO.png);
+}
+img{
+    background-color: black;
+    border-radius: 50px;
+}
